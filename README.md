@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am student of IIIT bhagalpur <br>i want to be an data scientist <br>i am in core team of ai club in college <br>
+i am student of IIIT bhagalpur <br>i am in core team of ai club in college <br>
 
 
 ## 🌐 Socials:
