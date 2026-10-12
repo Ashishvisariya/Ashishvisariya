@@ -1,77 +1,107 @@
-<div align="center">
-
 # Hi, I'm Ashish Bisariya 👋
 
-**ML/DL enthusiast · ECE undergrad @ IIIT Bhagalpur · Core team, AI Club**
+### ML/DL Enthusiast | ECE Undergrad @ IIIT Bhagalpur
 
-📍 Bhagalpur, India &nbsp;·&nbsp; 📫 [ashishvisariya663@gmail.com](mailto:ashishvisariya663@gmail.com)
+I'm an aspiring machine learning and AI engineer interested in Deep Learning, NLP, Generative AI, and building practical AI-powered applications.
 
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Ashishvisariya)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-bisariya)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashishvisariya)
+📍 Bhagalpur, India  
+🎓 B.Tech in Electronics & Communication Engineering — IIIT Bhagalpur
 
-</div>
+🌐 **[Portfolio](https://ashish-bisariya.vercel.app/)** · [GitHub](https://github.com/Ashishvisariya) · [LinkedIn](https://linkedin.com/in/ashish-bisariya) · [Bluesky](https://bsky.app/profile/Ashishvisariya)  
+📫 [ashishvisariya663@gmail.com](mailto:ashishvisariya663@gmail.com)
 
 ---
 
-### 🔭 What I'm working on
+### 🔭 What I'm Working On
 
-- 🧠 Building **CreerOS** — <!-- TODO: add a one-line description of what CreerOS does -->
-- 🎓 B.Tech in Electronics & Communication Engineering, **IIIT Bhagalpur**
-- 🤝 Core team member, **AI Club**, IIIT Bhagalpur
-- 🌱 Sharpening my focus on Deep Learning, Computer Vision & NLP
+- 🧠 **CareerOS – AI Resume Analyzer:** Building an AI-powered platform that analyzes resumes and provides personalized career feedback using Google Gemini API, LangChain, and Streamlit.
+- 🎓 Pursuing B.Tech in Electronics & Communication Engineering at IIIT Bhagalpur.
+- 🌱 Exploring Machine Learning, Deep Learning, NLP, and Generative AI.
+- 💡 Practicing Data Structures & Algorithms and competitive programming.
 
 ---
 
 ### 🚀 Featured Projects
 
-**[Kinship Verification from Face Images](#)** — *Siamese Network · PyTorch · facenet-pytorch*
-A face-verification model that predicts whether two people are blood relatives from photos, using a VGGFace2-pretrained CNN backbone with two-phase transfer learning.
-- Built a 260K-pair training set from raw family-photo folders — labels, negative-pair generation, balancing, all from scratch
-- Diagnosed a failing 40%-accuracy baseline and fixed it by switching to a face-pretrained encoder, reaching **98%+ accuracy and 0.99 AUC-ROC**
-- Cut CPU training time from hours to minutes with an embedding-caching optimization
+#### 1. CareerOS – AI Resume Analyzer 🚧
+**Python · Google Gemini API · LangChain · Streamlit**
 
-**[House Price Prediction](#)** · **[Live Demo](#)** — *Scikit-learn · Regression*
-Predicts Bangalore house prices, comparing Linear, Ridge, and Lasso Regression.
-- Full preprocessing pipeline: missing-value handling, outlier removal, feature engineering
-- Evaluated models with R² score and cross-validation
+An AI-powered resume analysis platform designed to extract candidate information and provide personalized career feedback.
 
-**[Spam Detection using NLP](#)** — *NLTK · Scikit-learn*
-An SMS spam classifier built on classic NLP preprocessing.
-- Tokenization, stop-word removal, TF-IDF vectorization
-- Compared Naive Bayes vs. Logistic Regression, selected the best by evaluation metrics
+- Developing resume parsing to identify skills, projects, education, and experience.
+- Integrating Gemini API with LangChain for structured AI-powered analysis.
+- Designing feedback for strengths, weaknesses, missing skills, and improvement opportunities.
 
-> 📝 Swap the `#` placeholders above for your actual repo / live-demo links.
+#### 2. House Price Prediction
+**Python · Pandas · NumPy · Scikit-learn**
+
+An end-to-end machine learning pipeline for predicting Bangalore house prices from property features.
+
+- Performed exploratory data analysis, missing-value handling, outlier removal, and feature engineering.
+- Implemented and compared Linear Regression, Ridge Regression, and Lasso Regression.
+- Evaluated models using R² score and cross-validation.
+- Deployed the trained model for online predictions.
+
+🔗 [Live Demo](#) · [Source Code](#)
+
+#### 3. Spam Detection using NLP
+**Python · NLTK · Scikit-learn**
+
+An NLP-based binary classification system that identifies spam messages from SMS data.
+
+- Built a text preprocessing pipeline using tokenization, stop-word removal, and TF-IDF vectorization.
+- Trained and compared Naive Bayes and Logistic Regression classifiers.
+- Selected the better-performing approach using evaluation metrics.
+
+🔗 [Source Code](#)
+
+#### 4. Customer Churn Prediction
+**Python · Pandas · Scikit-learn**
+
+A machine learning classification pipeline for predicting customer churn using telecom customer data.
+
+- Performed exploratory data analysis, missing-value handling, categorical encoding, and feature preparation.
+- Compared Logistic Regression, Decision Tree, and Random Forest models.
+- Tuned hyperparameters using GridSearchCV.
+- Evaluated models using accuracy, precision, recall, and a confusion matrix.
+
+🔗 [Source Code](#)
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**ML & Data**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜️🔗%20LangChain-1C3C3C?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Machine Learning, Data & AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 
 **Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
 ### 🏆 Achievements
 
-- Solved **500+ DSA problems** across LeetCode, CodeChef, Codeforces & GeeksforGeeks
-- Competed in **32+** competitive programming contests
-- LeetCode Contest Rating: **1395** (peak 1416) · CodeChef Rating: **1179** (Div 4)
+- 🧩 Solved **450+ DSA problems** across LeetCode, CodeChef, Codeforces, and GeeksforGeeks.
+- 💻 Participated in **32+ competitive programming contests**.
+- 🟠 LeetCode Contest Rating: **1500** (maximum).
+- ⭐ CodeChef Rating: **1459** (Division 4).
 
 ---
 
@@ -79,9 +109,11 @@ An SMS spam classifier built on classic NLP preprocessing.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Ashishvisariya&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Ashishvisariya&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishvisariya&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashishvisariya&theme=dark&hide_border=true&show_icons=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ashishvisariya&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishvisariya&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
@@ -89,8 +121,8 @@ An SMS spam classifier built on classic NLP preprocessing.
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Ashishvisariya&icon=0&color=0)](https://visitcount.itsvg.in)
+🌐 **[Explore My Portfolio](https://ashish-bisariya.vercel.app/)**
 
-<sub>Built by Ashish Bisariya</sub>
+*Building, learning, and experimenting with AI.*
 
 </div>
